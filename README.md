@@ -12,7 +12,7 @@ Also included below is my [Process & Learnings](#process-learnings) section.
 
 ## Usage
 
-Site to be deployed on Github pages once completed
+Site is [deployed on Github pages](https://roughnut.github.io/employee-payroll-tracker/ "linke to deployed employee payroll tracker site")
 
 ## User Story
 
